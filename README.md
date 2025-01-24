@@ -45,9 +45,6 @@ python dolly_zoom.py
 ## Examples
 Here are some examples of the simulations in action:
 
-### Single-View Metrology
-![Single-View Metrology](examples/single_view_metrology.png)
-
 ### Dolly Zoom Effect
 ![Dolly Zoom Effect](Dolly.gif)
 
